@@ -25,6 +25,7 @@ becomes the announcement history.
     "message": "Scheduled maintenance Sunday 14 Sep, 2–4am AEST. See [status](https://status.nitrogene.com.au) for updates."
   }
 ]
+```
 
 ## Severity Options
 
