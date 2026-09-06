@@ -1,20 +1,8 @@
 [
   {
-    "id": "2026-09-scheduled-maintenance3",
+    "id": "2026-09-scheduled-maintenance4",
     "active": true,
-    "severity": "success",
-    "message": "Scheduled maintenance Sunday 14 Sep, 2–4am AEST. See [status](https://status.nitrogene.com.au) for updates."
-  },
-  {
-    "id": "2026-09-scheduled-maintenance2",
-    "active": true,
-    "severity": "info",
-    "message": "Scheduled maintenance Sunday 14 Sep, 2–4am AEST. See [status](https://status.nitrogene.com.au) for updates."
-  },
-  {
-    "id": "2026-09-scheduled-maintenance",
-    "active": false,
-    "severity": "info",
+    "severity": "error",
     "message": "Scheduled maintenance Sunday 14 Sep, 2–4am AEST. See [status](https://status.nitrogene.com.au) for updates."
   }
 ]
