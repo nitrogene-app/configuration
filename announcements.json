@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "2026-10-13-scheduled-upgrade",
+    "active": true,
+    "severity": "info",
+    "message": "NITROGENE will be temporarily unavailable due to a scheduled upgrade on Tuesday 13 Oct from 10.30pm – 11.00pm AEDT."
+  }
+]
